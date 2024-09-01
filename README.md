@@ -9,5 +9,5 @@
     🐾 orange cat 🐰 • garfield 🐤🐥
 </pre>
 <br><br>
-<-- <img src="https://raw.githubusercontent.com/mrcxlinux/mrcxlinux/main/assets/im.png" width="100%" align="left"/> -->
+<!-- <img src="https://raw.githubusercontent.com/mrcxlinux/mrcxlinux/main/assets/im.png" width="100%" align="left"/> -->
 <br><br><br>
